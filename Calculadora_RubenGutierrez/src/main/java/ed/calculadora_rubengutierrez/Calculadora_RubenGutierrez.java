@@ -18,7 +18,7 @@ public class Calculadora_RubenGutierrez {
         while (opcion != 0) {
             //Try catch para evitar que el programa termine si hay un error
             try {
-                
+                System.out.println("Hola");
                 System.out.println("Elige opción:\n" + ""
                         + "1.- Sumar\n"
                         + "2.- Restar\n"
